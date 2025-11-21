@@ -1,0 +1,5 @@
+{
+  "name": "お月さまの満ち欠け探検隊",
+  "description": "小学生向けの月が満ち欠けする仕組みを学ぶインタラクティブなアプリです。Gemini先生がやさしく教えてくれます。",
+  "requestFramePermissions": []
+}
